@@ -10,4 +10,4 @@ Skills & Tech Stack
 - PostgreSQL
 - Visual Studio Code
 
-A little bit about me, I’m a big fan of horror movies 👻
+A little bit about me, I’m a big fan of horror movies.
