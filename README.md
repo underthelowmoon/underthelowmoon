@@ -2,8 +2,6 @@
 
 # Hi, im Yola
 
-<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://pin.it/OIXeJGmwW)" width="400"/>
-
 </div>
 
 
