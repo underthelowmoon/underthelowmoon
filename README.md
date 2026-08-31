@@ -1,16 +1,13 @@
-## Hi there 👋
+Hey, im Yola
 
-<!--
-**underthelowmoon/underthelowmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems student || Learning Web Development
+Currently learning, working on academic projects, and figuring things out along the way. I’m interested in web development, databases, UI/UX, and how technology can be used to solve real-world problems.
 
-Here are some ideas to get you started:
+Skills & Tech Stack
+- PHP
+- VB.NET
+- MySql
+- PostgreSQL
+- Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A little bit about me, I’m a big fan of horror movies 👻
